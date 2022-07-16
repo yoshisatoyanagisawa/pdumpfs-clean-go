@@ -3,7 +3,7 @@ Go implementation of pdumpfs-clean.
 
 ## how to use?
 ```
-% git checkout https://github.com/yoshisatoyanagisawa/pdumpfs-clean-go.git
+% git clone https://github.com/yoshisatoyanagisawa/pdumpfs-clean-go.git
 % cd pdumpfs-clean-go
 % go build pdumpfs-clean.go
 ```
